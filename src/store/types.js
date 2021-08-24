@@ -1,0 +1,4 @@
+export const GET_WEATHER = "GET_WEATHER";
+export const GET_FORECAST = "GET_FORECAST";
+export const WEATHER_ERROR = "WEATHER_ERROR";
+export const RESET_WEATHER = "RESET_WEATHER";
